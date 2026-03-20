@@ -14,6 +14,12 @@ This reflects an interest in systems where clarity matters more than complexity.
 - Encourages step-by-step reasoning instead of guesswork
 - Applies basic heuristic matching for Math concepts
 
+## Preview
+### Verbal Analysis
+![Verbal](verbal-demo.png)
+### Math Detection
+![Math](math-demo.png)
+
 ## Why this project exists
 This project is not meant to be a complete solution.
 It is a small experiment in turning abstract reasoning into a functional system — showing how logic, structure, and decision-making can be encoded into software.
@@ -32,5 +38,5 @@ It is a small experiment in turning abstract reasoning into a functional system 
 python app.py
 ```
 
-Author
+## Author
 Da Ngoc Hoang
